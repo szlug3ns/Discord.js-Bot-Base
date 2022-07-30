@@ -1,0 +1,11 @@
+{
+  "name": "bosniabot",
+  "version": "1.0.0",
+  "description": "discord bot by szlug3ns",
+  "main": "index.js",
+  "author": "szlug3ns",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1"
+  }
+}
