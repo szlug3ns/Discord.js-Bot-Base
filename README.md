@@ -7,5 +7,5 @@ How to use:
   - "clientId" paste your bots appliccation ID
   - "guildId" paste your servers ID
 3. Run "node deploy-commands.js" in terminal. If you get "Successfully registered application commands." then you properly set up your slash commands
-4. Now just edit index.js how ever you like, add commands, functions idk. Remember to add your new commands to const commands in deploy-commands.js
+4. Now just edit index.js how ever you like, add commands, functions idk. Remember to add your new commands to const commands in deploy-commands.js and run it after you add them
 5. To run the bot run "node index.js" in terminal
